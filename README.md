@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Robiul</h1>
+<h1 align="center">Hi 👋, I'm Robiul Alam</h1>
 <h3 align="center">A passionate frontend developer web & flutter from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulalam210&label=Profile%20views&color=0e75b6&style=flat" alt="robiulalam210" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiulalam210" alt="robiulalam210" /></a> </p>
