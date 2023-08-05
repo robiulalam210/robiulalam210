@@ -26,7 +26,7 @@
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/robiulalam210"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robiulalam210" /></a>
-  <a href="https://ko-fi.com/robiulalam210"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="robiulalam210" /></a></p><br><br>
+</p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robiulalam210&show_icons=true&locale=en&layout=compact" alt="robiulalam210" />
 </p>
