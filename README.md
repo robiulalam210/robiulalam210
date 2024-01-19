@@ -8,7 +8,7 @@
 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiulalam210" alt="robiulalam210" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Python**zz
+- 🌱 I’m currently learning **Laravel ,Php,Django,Python**zz
 
 - 💬 Ask me about **Flutter Devloper**
 
