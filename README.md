@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Robiul Alam</h1>
-<h3 align="center">A passionate Frontend Developer (Web & Flutter) from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer (Dextop & Flutter) from Bangladesh</h3>
 
 <!-- Optional GIF
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
