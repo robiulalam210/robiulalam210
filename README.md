@@ -7,8 +7,8 @@
 
 ---
 
-- 🌱 I’m currently learning: **Laravel, PHP, Django, Python**
-- 💬 Ask me about: **Flutter, Dart & REST API Development**
+- 🌱 I’m currently learning: **Laravel, PHP, Django, Python**  
+- 💬 Ask me about: **Flutter, Dart & REST API Development**  
 - 📫 Reach me at: **robiulstudies@gmail.com**
 
 ---
@@ -53,23 +53,21 @@
 ---
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=flat" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulalam210&theme=default" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulalam210&layout=compact&theme=default" alt="Top Languages" />
 </p>
