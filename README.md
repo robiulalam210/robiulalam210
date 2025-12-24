@@ -51,24 +51,19 @@
 </p>
 
 ---
+
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulalam210&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulalam210&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
-
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">🏷 GitHub Badges</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulalam210&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulalam210&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://img.shields.io/github/forks/robiulalam210?style=for-the-badge" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/robiulalam210?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/issues/robiulalam210?style=for-the-badge" alt="Issues"/>
+  <img src="https://img.shields.io/github/contributors/robiulalam210?style=for-the-badge" alt="Contributors"/>
 </p>
