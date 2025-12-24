@@ -51,11 +51,11 @@
 </p>
 
 ---
-<h3 align="left">🏆 GitHub Trophies</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulalam210&theme=onedark" alt="GitHub Streak" />
 </p>
-
 
 
 ---
