@@ -53,8 +53,9 @@
 ---
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
 
 ---
