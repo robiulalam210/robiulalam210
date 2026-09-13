@@ -40,10 +40,8 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════
-     ABOUT
+     ABOUT ME
      ═══════════════════════════════════════════════════════════ -->
-<img align="right" width="38%" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Flutter/Flutter.png" alt="Flutter" />
-
 ## 👨‍💻 &nbsp;About Me
 
 ```dart
@@ -65,51 +63,39 @@ class RobiulAlam extends Developer {
 }
 ```
 
-- 🔭 &nbsp;Currently building **cross-platform applications** at [@MacroHealthPlus](https://github.com/MacroHealthPlus-Software)
+- 🔭 &nbsp;Currently building **cross-platform applications** with Flutter
 - 🌱 &nbsp;Expanding into **backend development** with Laravel, Django & Python
 - 💬 &nbsp;Ask me about **Flutter · Dart · State Management · REST API integration**
 - 🤝 &nbsp;Open to collaborating on **open-source Flutter packages**
 - ⚡ &nbsp;Fun fact: **4,586 contributions** in the last year
 
-<br clear="right" />
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     TECH STACK — skillicons.dev
+     TECH STACK
      ═══════════════════════════════════════════════════════════ -->
 ## 🛠️ &nbsp;Tech Stack
 
 <table align="center">
   <tr>
     <td align="center"><b>Mobile & Desktop</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Flutter Dart" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Flutter Dart" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="Frontend" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs&theme=dark" alt="Backend" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Database & Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,supabase&theme=dark" alt="Database" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,supabase&theme=dark" alt="Database" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
@@ -138,15 +124,8 @@ class RobiulAlam extends Developer {
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robiulalam210&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </p>
 
-### 📈 &nbsp;Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robiulalam210&bg_color=0D1117&color=13B9FD&line=02569B&point=FFFFFF&area=true&area_color=13B9FD&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
 ### 🐍 &nbsp;Contribution Snake
 
-<!-- Requires the snake.yml GitHub Action — see setup notes -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robiulalam210/robiulalam210/output/github-snake-dark.svg" />
@@ -158,20 +137,66 @@ class RobiulAlam extends Developer {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     FEATURED PROJECTS — replace repo names with your own
+     FEATURED PROJECTS
+     ───────────────────────────────────────────────────────────
+     ⚠️  এই section টি আপাতত comment করা আছে, তাই profile-এ দেখা যাবে না।
+
+     চালু করতে:
+       ১. নিচের REPO_NAME_1 / REPO_NAME_2 বদলে আপনার আসল repository-র নাম লিখুন
+       ২. প্রতিটি project-এর description ও technology লিখুন
+       ৩. তারপর এই লাইনের "<!--" এবং section শেষের "-->" মুছে দিন
      ═══════════════════════════════════════════════════════════ -->
+
+<!--
 ## 🚀 &nbsp;Featured Projects
 
-<p align="center">
-  <a href="https://github.com/robiulalam210/REPO_NAME_1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=robiulalam210&repo=REPO_NAME_1&theme=github_dark&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/robiulalam210/REPO_NAME_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=robiulalam210&repo=REPO_NAME_2&theme=github_dark&hide_border=true" alt="Project 2" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project One</h3>
+      <p align="center">
+        <a href="https://github.com/robiulalam210/REPO_NAME_1" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-13B9FD?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/robiulalam210/REPO_NAME_1?style=flat-square&color=02569B" alt="lang" />
+        <img src="https://img.shields.io/github/stars/robiulalam210/REPO_NAME_1?style=flat-square&color=13B9FD" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/robiulalam210/REPO_NAME_1?style=flat-square&color=0175C2" alt="last commit" />
+      </p>
+      <p align="center">
+        <b>এক লাইনের description এখানে লিখুন।</b><br/>
+        Flutter · REST API · Firebase
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Two</h3>
+      <p align="center">
+        <a href="https://github.com/robiulalam210/REPO_NAME_2" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-13B9FD?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/robiulalam210/REPO_NAME_2?style=flat-square&color=02569B" alt="lang" />
+        <img src="https://img.shields.io/github/stars/robiulalam210/REPO_NAME_2?style=flat-square&color=13B9FD" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/robiulalam210/REPO_NAME_2?style=flat-square&color=0175C2" alt="last commit" />
+      </p>
+      <p align="center">
+        <b>এক লাইনের description এখানে লিখুন।</b><br/>
+        Dart · Desktop · SQLite
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+-->
+
+<p align="center">
+  <a href="https://github.com/robiulalam210?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════
      FOOTER
