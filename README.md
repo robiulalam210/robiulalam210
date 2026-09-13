@@ -66,17 +66,27 @@
 
 ## 📊 GitHub Statistics
 
+<!-- Streak card: streak-stats.demolab.com is the official mirror and is currently stable. -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=robiulalam210&show_icons=true&count_private=true&hide_border=true&theme=onedark&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulalam210&layout=compact&langs_count=8&hide_border=true&theme=onedark&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=robiulalam210&hide_border=true&theme=github-dark-blue&border_radius=8" alt="GitHub Streak" />
+</p>
+
+<!--
+  github-profile-summary-cards is a DIFFERENT service from github-readme-stats,
+  so it has its own separate rate-limit pool and stays up when the other is down.
+-->
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robiulalam210&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=robiulalam210&hide_border=true&theme=onedark" alt="GitHub Streak" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robiulalam210&theme=github_dark" alt="Contribution Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robiulalam210&theme=github_dark" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robiulalam210&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robiulalam210&theme=onedark&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robiulalam210&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </p>
 
 ---
